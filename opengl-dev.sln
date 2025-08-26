@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AffineMesh", "AffineMesh\Af
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Camera Frustum", "Camera Frustum\Camera Frustum.vcxproj", "{15E1C21D-6D18-4E64-A457-7BA69484C11C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Clipping", "Clipping\Clipping.vcxproj", "{015486EC-3527-4CC2-A6FD-17E89F0E1987}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -63,6 +65,10 @@ Global
 		{15E1C21D-6D18-4E64-A457-7BA69484C11C}.Debug|x64.Build.0 = Debug|x64
 		{15E1C21D-6D18-4E64-A457-7BA69484C11C}.Release|x64.ActiveCfg = Release|x64
 		{15E1C21D-6D18-4E64-A457-7BA69484C11C}.Release|x64.Build.0 = Release|x64
+		{015486EC-3527-4CC2-A6FD-17E89F0E1987}.Debug|x64.ActiveCfg = Debug|x64
+		{015486EC-3527-4CC2-A6FD-17E89F0E1987}.Debug|x64.Build.0 = Debug|x64
+		{015486EC-3527-4CC2-A6FD-17E89F0E1987}.Release|x64.ActiveCfg = Release|x64
+		{015486EC-3527-4CC2-A6FD-17E89F0E1987}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
