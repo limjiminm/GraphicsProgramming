@@ -7,6 +7,8 @@
 #include "mat3.h"
 
 #include <cmath>
+#include <limits>   // std::numeric_limits
+
 
 mat3 mat3::build_rotation(float angle_in_radians) noexcept
 {
