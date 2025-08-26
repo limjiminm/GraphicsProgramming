@@ -17,6 +17,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tutorial-4", "tutorial-4\tu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tutorial-5", "tutorial-5\tutorial-5.vcxproj", "{DB0614FD-B67D-4CF1-A3B2-02F0B4C50101}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AffineMesh", "AffineMesh\AffineMesh.vcxproj", "{5EE310F6-A45E-405A-8959-9F14C774935D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Camera Frustum", "Camera Frustum\Camera Frustum.vcxproj", "{15E1C21D-6D18-4E64-A457-7BA69484C11C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +55,14 @@ Global
 		{DB0614FD-B67D-4CF1-A3B2-02F0B4C50101}.Debug|x64.Build.0 = Debug|x64
 		{DB0614FD-B67D-4CF1-A3B2-02F0B4C50101}.Release|x64.ActiveCfg = Release|x64
 		{DB0614FD-B67D-4CF1-A3B2-02F0B4C50101}.Release|x64.Build.0 = Release|x64
+		{5EE310F6-A45E-405A-8959-9F14C774935D}.Debug|x64.ActiveCfg = Debug|x64
+		{5EE310F6-A45E-405A-8959-9F14C774935D}.Debug|x64.Build.0 = Debug|x64
+		{5EE310F6-A45E-405A-8959-9F14C774935D}.Release|x64.ActiveCfg = Release|x64
+		{5EE310F6-A45E-405A-8959-9F14C774935D}.Release|x64.Build.0 = Release|x64
+		{15E1C21D-6D18-4E64-A457-7BA69484C11C}.Debug|x64.ActiveCfg = Debug|x64
+		{15E1C21D-6D18-4E64-A457-7BA69484C11C}.Debug|x64.Build.0 = Debug|x64
+		{15E1C21D-6D18-4E64-A457-7BA69484C11C}.Release|x64.ActiveCfg = Release|x64
+		{15E1C21D-6D18-4E64-A457-7BA69484C11C}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
